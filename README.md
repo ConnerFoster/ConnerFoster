@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ConnerFoster
-- 👀 I’m interested in Web Development, Cybersecurity, ML/AI, and all things computer.
-- 🌱 I’m currently learning React and Python
+- 👀 I’m interested in Web Development, Data Science, Blockchain, and all things tech.
+- 🌱 I’m currently learning React and brushing up on data structures / algorithms.
 - 📫 How to reach me: connerf99@gmail.com
 
 <!---
